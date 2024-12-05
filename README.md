@@ -1,7 +1,3 @@
-* 🌍  I'm based in Samutprakan, Thailand
-* 🖥️  See my portfolio at [Myport](http://github.com/thanawatJP)
-* ✉️  You can contact me at [thanawatsornsanoy@gmail.com](mailto:thanawatsornsanoy@gmail.com)
-
 ### Skills
 
 
