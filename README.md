@@ -1,9 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanawat Sornsanoy
-==========================================================================================================================================
-
-Student, IT KMITL (Software Engineer)
--------------------------------------
-
 * 🌍  I'm based in Samutprakan, Thailand
 * 🖥️  See my portfolio at [Myport](http://github.com/thanawatJP)
 * ✉️  You can contact me at [thanawatsornsanoy@gmail.com](mailto:thanawatsornsanoy@gmail.com)
